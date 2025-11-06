@@ -17,9 +17,3 @@ I specialize in crafting clean, efficient, and scalable solutions — from moder
 
 ### 🎯 What Drives Me
 I love turning ideas into products. My goal is to build tools that are not just functional, but elegant and intuitive. I'm always exploring new ways to merge business thinking with technical execution.
-
----
-
-📫 Let's connect — I'm always up for meaningful collaborations or cool new ideas.
-- Email: adiprofitcoder@gmail.com
-- Whatsapp: +91 9044791312
